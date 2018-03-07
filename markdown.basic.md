@@ -36,7 +36,7 @@ return 0;
 ## 链接(h2)
 [this is baidu](http://baidu.com/"http://baidu.com/")</br>
 <http://www.baidu.com></br>
-<test@travelsky.com></br>
+<test@qq.com></br>
 ## 段落(h2)
 段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落段落。</br>
 
